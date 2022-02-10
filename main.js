@@ -13,7 +13,7 @@ function setup()
 
 function draw()
 {
-    image(video,0,0,550,480);
+    image(video,0,0,550,400);
 }
 
 function take_snapshot()
